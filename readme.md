@@ -1,6 +1,6 @@
 ## Raw Image
 
-![imagem-apos-as-correcoes-1](https://github.com/user-attachments/assets/10116f4f-a5c9-4edc-b500-8af69a73100a)
+![imagem-original-da-amostra](https://github.com/user-attachments/assets/3c2bc770-09ef-4f67-b234-8040b6db16f9)
 
 
 ## image treated by code
